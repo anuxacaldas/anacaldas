@@ -15,7 +15,10 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuxacaldas)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuxacaldas&hide_progress=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuxacaldas)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div> 
