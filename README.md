@@ -1,4 +1,4 @@
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&pause=1000&color=1E3176&width=435&lines=Bem-vindos!" alt="Typing SVG" /></a>
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&pause=1000&color=1E3176&width=435&lines=Sejam Bem-Vindos!" alt="Typing SVG" /></a>
 
 <img align="center" alt="Anuxa"  src="banner.png">
 
@@ -13,7 +13,7 @@
   
   ##
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?anuxacaldas=anuraghazra&show_icons=true&theme=transparent)
  
 <div> 
   <a href="https://instagram.com/ana.caldas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
