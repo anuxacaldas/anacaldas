@@ -1,8 +1,5 @@
 # <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&pause=1000&color=1E3176&width=435&lines=Bem-vindos!" alt="Typing SVG" /></a>
 
-
-
-
 <img align="center" alt="Anuxa"  src="banner.png">
 
 
